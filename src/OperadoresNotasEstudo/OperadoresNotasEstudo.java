@@ -71,6 +71,35 @@ public class OperadoresNotasEstudo {
         System.out.println(decimal1 == decimal2);
         System.out.println(decimal1 != decimal2);
 
+        // Sistema de atribuição
+
+        int variavel = 1;
+        variavel += 4;
+        variavel -= 2;
+        variavel *= 5;
+        variavel /= 3;
+        variavel %= 2;
+        System.out.println(variavel);
+
+        // Operadores Lógicos
+        int valor1 = 4;
+        int valor2 = 2;
+        boolean expressao = valor1 < 10 && valor2 < 10; //Se um dos valores der bool False, não irá imprimir
+        System.out.println(expressao);
+
+        int valor3 = 4;
+        int valor4 = 2;
+        boolean expressaoOr = valor3 < 10 || valor4 < 2; // Se uns dos dois valores for true, retornará true
+        System.out.println(expressaoOr);
+
+        boolean expressaoNegada = (2 < 1);
+        System.out.println(!expressaoNegada);
+
+
+
+
+
+
 
 
 
