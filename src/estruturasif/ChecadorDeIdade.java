@@ -11,10 +11,12 @@ public class ChecadorDeIdade {
 
         int idade = scanner.nextInt();
 
-        if (idade >= 18) {
+        if (idade >= 18) //Não precisei colocar chaves "{}" porque se refere somente a uma instrução (idade)
             System.out.println("Pode comprar o ingresso");
-        } else {
+        else
             System.out.println("Esse filme é para maiores de 18 anos.");
-        }
+
+
+
     }
 }
