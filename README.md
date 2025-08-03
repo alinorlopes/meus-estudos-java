@@ -14,12 +14,9 @@ Aqui estão meus projetos e exercícios feitos para **aprimorar minhas habilidad
 
 ## 🛠️ Tecnologias
 
-- 🔹 Java
-- 🔹 Git / GitHub
+-  Java
+-  Git / GitHub
+- (SpringBoot no futuro)
+- (AWS no futuro)
 
 ---
-
-## 👨‍🎓 Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas, focado em me tornar um desenvolvedor competente.  
-Aqui mostro minha determinação em sair da teoria e colocar a mão na massa.  
